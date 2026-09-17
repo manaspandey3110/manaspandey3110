@@ -19,7 +19,7 @@ I'm a final-year **B.Tech (Information Technology)** student at KIET Group of In
 
 ```text
 Name       : Manas Pandey
-Role       : Backend Developer | Aspiring Cloud Engineer
+Role       : Software Developer | Backend Developer | Aspiring Cloud Engineer
 Education  : B.Tech IT — KIET Group of Institutions (2023–2027), CGPA 8.16
 Cert       : AWS Certified Cloud Practitioner
 Location   : Ghaziabad, Uttar Pradesh, India
