@@ -129,6 +129,6 @@ Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, 
 | 🧩 LeetCode | [manaspandey_3110](https://leetcode.com/u/manaspandey_3110/) |
 | ⚔️ Codeforces | [manaspandey3110](https://codeforces.com/profile/manaspandey3110) |
 | 📧 Email | pandeymanas3110@gmail.com |
-| 📞 Phone | +91-7905201760 |
+
 
 <p align="center"><i>⭐️ From <a href="https://github.com/manaspandey3110">Manas Pandey</a> — building one API, one deploy at a time.</i></p>
