@@ -23,7 +23,7 @@ Role       : Software Developer | Backend Developer | Aspiring Cloud Engineer
 Education  : B.Tech IT — KIET Group of Institutions (2023–2027), CGPA 8.16
 Cert       : AWS Certified Cloud Practitioner
 Location   : Ghaziabad, Uttar Pradesh, India
-Contact    : pandeymanas3110@gmail.com | +91-7905201760
+Contact    : pandeymanas3110@gmail.com
 ```
 
 ### 🔭 What I'm Focused On
